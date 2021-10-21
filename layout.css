@@ -37,4 +37,12 @@
     display: inline-block;
     
 }
+.footer{
+    background-color: lightgray;
+color: white;
+height: 70px;
+justify-content: center;
+display:flex;
+}
+
 
