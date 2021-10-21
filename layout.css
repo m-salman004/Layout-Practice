@@ -5,4 +5,11 @@
     justify-content: center;
     height: 100px;
 }
+#navigationmenu{
+    justify-content: center;
+    background-color: lightgray;
+    color: white;
+    display: flex;
+    height: 70px;
+}
 
